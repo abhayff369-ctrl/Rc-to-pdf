@@ -340,8 +340,8 @@ def rc_html():
 @app.route("/")
 def index():
     return (
-        "<h2>RC Card PDF Generator - Darkdeveloper02</h2>"
-        "<h3> Buy api source code dm - @bigboss4203       "<p>Routes:</p>"
+        "<h2>RC Card PDF Generator - bigboss4203</h2>"
+        "<p>Routes:</p>"
         "<ul>"
         "<li><code>/rc?vehicle=HR26EV0001</code> — Direct PDF Download in Browser</li>"
         "<li><code>/rcimg?vehicle=HR26EV0001</code> — Direct Image Download in Browser</li>"
